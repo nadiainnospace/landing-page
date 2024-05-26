@@ -1,8 +1,10 @@
+import Banner from "@/components/container/banner/Banner";
+
 
 export default function Home() {
   return (
    <>
-   <h1> Landing page </h1>
+  <Banner></Banner>
    
    
    </>

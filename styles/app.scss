@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// Custom SCSS
+@import "variables";
+@import "fonts";
+@import "base";
+@import "sidebar";
+@import "tinyeditor";
+@import "dashboard";
+@import "ant-components";
