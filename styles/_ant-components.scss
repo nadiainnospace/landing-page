@@ -1,0 +1,46 @@
+.ant-select-multiple.ant-select-lg {
+  font-size: 14px !important;
+}
+
+.ant-upload-list-item.ant-upload-list-item-done {
+  height: 50px !important;
+  padding: 4px !important;
+}
+
+.ant-upload-wrapper .ant-upload-list.ant-upload-list-picture .ant-upload-list-item .ant-upload-list-item-thumbnail {
+  height: 100% !important;
+  max-height: 44px !important;
+  width: 60px !important;
+}
+
+.ant-form-item-label {
+  label {
+    font-weight: 600;
+    color: #111111;
+    height: 26px !important;
+  }
+}
+
+.ant-select.ant-select-outlined .ant-select-selector {
+  border: 1px solid #CBD5E1 !important;
+}
+
+.ant-form-item-control {
+  .ant-form-item-control-input .ant-select-selector {
+    border: 1px solid #CBD5E1 !important;
+  }
+}
+
+.outline-radio-button {
+  .ant-radio-wrapper {
+    flex: 1;
+    padding: 8px 16px;
+    border: 1px solid #CBD5E1 !important;
+    border-radius: 6px;
+
+    &.ant-radio-wrapper-checked{
+      border-color: #255BE5 !important;
+      background-color: rgba(37, 91, 229, 0.05);
+    }
+  }
+}
